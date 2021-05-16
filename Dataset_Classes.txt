@@ -1,0 +1,33 @@
+Classes of UrbanSound8K
+Drilling
+Jackhammer         
+Air Conditioner    
+Engine Idling       
+Street Music        
+Dog Bark            
+Children Playing   
+Siren             
+Car Horn             
+Gun Shot     
+
+Classes of FSDKaggle2018
+Saxophone                
+Violin or Fiddle        
+Clarinet                 
+Flute                    
+Cello                    
+Acoustic Guitar          
+Oboe                     
+Double Bass              
+Hi Hat                
+Laughter                 
+Trumpet              
+Snare Drum              
+Fireworks              
+Applause                 
+Fart                     
+Shatter                  
+Squeak                   
+Gong                     
+Bass Drum                
+Tearing                         
